@@ -2,4 +2,5 @@ New Project
 Title: Hello World
 Description: Palidhje
 Autor:Vegim Carkaxhija
-Autor2:zgjim zhubaj
+
+Autor2:Zgjim Zhubaj
